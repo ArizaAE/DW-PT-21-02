@@ -72,7 +72,7 @@ form {
 .navbar {
   text-align: center;
   color: #025157;
-  font-weight: 500
+  font-weight: 500;
   background-color: #fffbf7;
 }
 
@@ -314,7 +314,6 @@ form {
 
 }
 
-
 .card-container {
   background-color: #a1d683;
   padding: 35px;
@@ -330,6 +329,13 @@ form {
   line-height: 61px;
   letter-spacing: -2px;
   color: #025157;
+}
+
+.comments p {
+  color: #343434;
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 1rem;
 }
 
 .comments img {
